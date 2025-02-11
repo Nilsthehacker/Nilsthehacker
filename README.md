@@ -5,7 +5,7 @@ About Me:
 🏦 Education: <br>
 Currently studying Industrial economics and Technology Management with a specialization in Artificial Intelligence.
 
-🤹 Interests: 
+🤹 Interests: <br> 
 Chess ♟️ <br>
 Cryptocurrency 🔐💲 <br>
 Trading 📈 <br>

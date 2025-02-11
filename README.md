@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 
-“The key to happiness is letting each situation be what it is instead of what you think it should be.”
 
 <!--
 **Nilsthehacker/Nilsthehacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

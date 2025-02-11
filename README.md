@@ -1,18 +1,23 @@
 ## Hi there 👋
 
+About Me:
 
 
-<!--
-**Nilsthehacker/Nilsthehacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏦 Education:
+Currently studying Industrial economics and Technology Management with a specialization in Artificial Intelligence.
 
-Here are some ideas to get you started:
+🤹 Interests: 
+Chess ♟️
+Cryptocurrency 🔐💲
+Trading 📈
+Gaming 🎮
+Golf 🏌️‍♂️
+Fitness 🏋️‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👁️ Vision: I am interested in artificial intelligence and how it connects with economics. AI can help improve the world by making better decisions, using resources wisely, and solving important problems. I want to explore how these two fields can work together to create a better future.
+
+🧑‍💻 Tech I work on:
+java python openai Nodejs GIT 
+
+

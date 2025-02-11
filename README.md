@@ -7,17 +7,11 @@ About Me:
 Currently studying Industrial economics and Technology Management with a specialization in Artificial Intelligence.
 
 🤹 Interests: 
-
 Chess ♟️
-
 Cryptocurrency 🔐💲
-
 Trading 📈
-
 Gaming 🎮
-
 Golf 🏌️‍♂️
-
 Fitness 🏋️‍♂️
 
 

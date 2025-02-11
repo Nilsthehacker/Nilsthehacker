@@ -2,8 +2,7 @@
 
 About Me:
 
-
-🏦 Education:
+🏦 Education: <br>
 Currently studying Industrial economics and Technology Management with a specialization in Artificial Intelligence.
 
 🤹 Interests: 
@@ -15,7 +14,10 @@ Golf 🏌️‍♂️ <br>
 Fitness 🏋️‍♂️ <br>
 
 
-👁️ Vision: I am interested in artificial intelligence and how it connects with economics. AI can help improve the world by making better decisions, using resources wisely, and solving important problems. I want to explore how these two fields can work together to create a better future.
+👁️ Vision: <br>
+I am interested in artificial intelligence and how it connects with economics. <br>
+AI can help improve the world by making better decisions, using resources wisely, and solving important problems. <br>
+I want to explore how these two fields can work together to create a better future. <br>
 
 
 

@@ -2,6 +2,10 @@
 
 About Me:
 
+🤔 Quote: <br>
+“The key to happiness is letting each situation be what it is instead of what you think it should be.”
+
+
 🏦 Education: <br>
 Currently studying Industrial economics and Technology Management with a specialization in Artificial Intelligence.
 

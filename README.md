@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cf5c9c64-162b-416d-86f4-a5eb4548e6ec)## Hi there 👋
+## Hi there 👋
 
 About Me:
 
